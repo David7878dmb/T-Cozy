@@ -12,14 +12,9 @@
     Estructura del Proyecto
     El proyecto está organizado de la siguiente manera:
 
-    Copiar código
-    /
+   
     ├── index.html
     ├── style.css
-    ├── img/
-    │   ├── tea1.jpg
-    │   ├── tea2.jpg
-    │   └── tea3.jpg
     └── README.md
 
 
@@ -27,7 +22,6 @@
 
     index.html: Contiene la estructura principal de la página web.
     styles.css: Contiene los estilos CSS utilizados para diseñar la página.
-    images/: Contiene las imágenes utilizadas en la página.
 
     Tecnologías Utilizadas:
     HTML5: Para la estructura del contenido.
